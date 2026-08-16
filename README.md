@@ -1,6 +1,6 @@
 # Hi, I'm Vivek Chowdhury
 
-### Analyst | Business Process Automation | Power Platform | API Integration
+### Analyst | Business Analysis & Process Automation | Power Platform | Business Process Improvement | AI-enabled Business Solutions
 
 I currently work in an **Analyst role**, where I focus on improving business processes through automation, application development, system integration, and data-driven solutions.
 
@@ -192,4 +192,4 @@ I'm interested in opportunities involving:
 
 **Business Analysis · Business Process Improvement · Power Platform · Automation · RPA · API Integration · AI-enabled Business Solutions**
 
-[LinkedIn](#)
+[LinkedIn]- www.linkedin.com/in/vivek-chowdhury-426275123
